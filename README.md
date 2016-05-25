@@ -1,9 +1,9 @@
 # iOSBlogsCollections
 
-以下是收集的一些iOS大牛们的博客，大家可以共同学习，补充。持续更新可查看：https://github.com/tangqiaoboy/iOSBlogCN  [@tangqiaoboy]
+以下是收集的一些iOS大牛们的博客，大家可以共同学习，补充。持续更新可查看：https://github.com/tangqiaoboy/iOSBlogCN  [@tangqiaoboy](https://github.com/tangqiaoboy)
 
 |	Coder	|	Blog	|
-| --------  | :-----  | :----:  |
+| --------  | :-----  |
 |	OneV's Den	|	http://onevcat.com	|
 |	破船之家	|	http://beyondvincent.com	|
 |	NSHipster	|	http://nshipster.cn	|
