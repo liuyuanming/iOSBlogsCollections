@@ -1,6 +1,6 @@
 # iOSBlogsCollections
 
-以下是收集的一些iOS大牛们的博客，大家可以共同学习，补充
+以下是收集的一些iOS大牛们的博客，大家可以共同学习，补充。持续更新可查看：https://github.com/tangqiaoboy/iOSBlogCN  [@tangqiaoboy]
 
 |	Coder	|	Blog	|
 | --------  | :-----  | :----:  |
