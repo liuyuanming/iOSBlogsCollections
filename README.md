@@ -3,7 +3,7 @@
 以下是收集的一些iOS大牛们的博客，大家可以共同学习，补充
 
 |	Coder	|	Blog	|
-| --------  | -----:  | :----:  |
+| --------  | :-----:  | :----:  |
 |	OneV's Den	|	http://onevcat.com	|
 |	破船之家	|	http://beyondvincent.com	|
 |	NSHipster	|	http://nshipster.cn	|
