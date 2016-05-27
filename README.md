@@ -2,7 +2,7 @@
 
 以下是收集的一些iOS大牛们的博客，大家可以共同学习，补充。持续更新可查看：https://github.com/tangqiaoboy/iOSBlogCN  [@tangqiaoboy](https://github.com/tangqiaoboy)
 
-###另附上免费Vienna订阅各类技术博客教程：http://www.jianshu.com/p/f60c1402ba9e  [@遥遥锅锅](http://www.jianshu.com/users/1c7d21358574/latest_articles)
+#另附上免费Vienna订阅各类技术博客教程：http://www.jianshu.com/p/f60c1402ba9e  [@遥遥锅锅](http://www.jianshu.com/users/1c7d21358574/latest_articles)
 
 |	Coder	|	Blog	|
 | --------  | :-----  |
