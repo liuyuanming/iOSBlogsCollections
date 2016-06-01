@@ -84,7 +84,8 @@
 |夜千寻墨|http://gcblog.github.io|
 | objc.io|https://www.objc.io|
 |shanks|http://codebuild.me|
-|WeRead团队博客|http://wereadteam.github.io|
 |向晨宇|http://iosxxx.com/atom.xml|
 |happy dog|http://donbe.blog.163.com|
+|WeRead团队博客|http://wereadteam.github.io|
 |fir.im Weekly|http://blog.fir.im/fir_im_weekly160527/?utm_source=weibo&utm_medium=link&utm_content=fir_im_weekly160527|
+|美团点评技术团队|http://tech.meituan.com|
