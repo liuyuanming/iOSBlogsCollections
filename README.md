@@ -9,7 +9,7 @@
 |	OneV's Den	|	http://onevcat.com	|
 |	破船之家	|	http://beyondvincent.com	|
 |	NSHipster	|	http://nshipster.cn	|
-|	Limboy 无网不剩	|	http://feeds.feedburner.com	|
+|	Limboy	|	http://limboy.me	|
 |	唐巧的技术博客	|	http://blog.devtang.com	|
 |	Lex Tang	|	http://lexrus.com	|
 |	念茜的博客	|	http://nianxi.net	|
@@ -81,9 +81,10 @@
 |小土刀| http://wdxtub.com/about/|
 |秦小风's博客|http://shavekevin.com|
 |Keegan小钢App架构经验总结|http://keeganlee.me/post/architecture/20160303|
-|iOS Route|http://ios.skyfox.org/route.html|
 |夜千寻墨|http://gcblog.github.io|
-|使用GitHub和Hexo搭建免费静态Blog|http://wsgzao.github.io|
 | objc.io|https://www.objc.io|
 |shanks|http://codebuild.me|
 |WeRead团队博客|http://wereadteam.github.io|
+|向晨宇|http://iosxxx.com/atom.xml|
+|happy dog|http://donbe.blog.163.com|
+|fir.im Weekly|http://blog.fir.im/fir_im_weekly160527/?utm_source=weibo&utm_medium=link&utm_content=fir_im_weekly160527|
